@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-cn"
-title                    : " WANG's Homepage"
+title                    : " WANG'S HOMEPAGE"
 title_separator          : "-"
 name                     : &name "Wang Yao"
 description              : &description "personal description"
